@@ -1,5 +1,3 @@
-   # CodeAlpha Credit Scoring
-
 
 # CodeAlpha Credit Scoring
 
